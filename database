@@ -1,0 +1,12 @@
++-----------+--------------+------+-----+---------+-------+
+| Field     | Type         | Null | Key | Default | Extra |
++-----------+--------------+------+-----+---------+-------+
+| name      | varchar(50)  | YES  |     | NULL    |       |
+| password  | varchar(255) | NO   |     | NULL    |       |
+| lastLogin | tinytext     | YES  |     | NULL    |       |
+| email     | varchar(254) | NO   |     | NULL    |       |
+| mobnum    | varchar(15)  | NO   |     | NULL    |       |
+| cc        | varchar(10)  | NO   |     | NULL    |       |
+| aid       | int(11)      | NO   |     | NULL    |       |
++-----------+--------------+------+-----+---------+-------+
+
