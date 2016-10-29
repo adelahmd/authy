@@ -1,0 +1,10 @@
+#email1,#password1,#email,#password,#name{width:242px !important;}
+body{background:#efefef;}
+#content{width:580px;margin-left:25%;margin-top:10%}
+input.loginReg{width:242px;}
+.pure-form input{margin-bottom:10px;}
+.countries-input{width:60px !important;}
+.mobnum{width:180px;}
+label.error{margin-left:10px;color:#ee0000;}
+input.error{background:#ff8080;}
+
